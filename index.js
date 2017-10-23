@@ -16,7 +16,7 @@ function add2(n) {
   return n + 2;
 }
 
-var funkyFunction = a;
+var funkyFunction = "a";
 
 console.log(funkyFunction());
 
