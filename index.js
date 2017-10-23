@@ -16,11 +16,8 @@ function add2(n) {
   return n + 2;
 }
 
-var funkyFunction = function cheese() {
-    function returnTheFunk() {
-    return "FUNKY!";
-  }
-}
+var funkyFunction = function() {
+    }
 
 console.log(funkyFunction());
 
