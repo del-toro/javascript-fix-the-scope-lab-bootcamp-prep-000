@@ -16,8 +16,9 @@ function add2(n) {
   return n + 2;
 }
 
-var funkyFunction = function cheese() {
-    }
+function funkyFunction (){
+  function();
+}
 
 console.log(funkyFunction());
 
