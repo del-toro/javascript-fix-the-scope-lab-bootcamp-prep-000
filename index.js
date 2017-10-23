@@ -17,7 +17,7 @@ function add2(n) {
 }
 
 function funkyFunction (){
-  function();
+  function foo();
 }
 
 console.log(funkyFunction());
